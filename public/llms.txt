@@ -1,0 +1,21 @@
+# TV Lebara
+
+> Plataforma de streaming sobre Umbanda e religiões de matriz africana: transmissões ao vivo, programas gravados, notícias e IPTV para assinantes.
+
+## Páginas
+
+- [Início](/): Apresentação da TV Lebara.
+- [Sobre](/sobre): Quem somos.
+- [Programação](/programacao): Grade de programas.
+- [Conteúdos](/conteudos): Programas e conteúdos gravados.
+- [Notícias e Novidades](/noticias): Últimas notícias.
+- [Planos](/planos): Plano mensal e benefícios.
+- [FAQ](/faq): Perguntas frequentes.
+- [Contato](/contato): Fale conosco.
+
+## Optional
+
+- [Termos de Uso](/termos)
+- [Política de Privacidade](/privacidade)
+- [Cookies](/cookies)
+- [Classificação indicativa](/classificacao-indicativa)

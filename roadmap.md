@@ -1,0 +1,11 @@
+# Roadmap
+- [x] Labels Usuário Free / Usuário Premium
+- [x] Perfil obrigatório (CPF, nascimento, endereço)
+- [x] IP de cadastro, banir, ajustar dias/plano
+- [x] Cargos: Administrador-chefe concede Administrador
+- [x] Painel admin separado + dashboard financeiro em tempo real
+- [x] Conta de teste Premium
+- [x] Admins/chefe com assinatura ativa vitalícia (incl. pedrotrindadesoft@gmail.com)
+- [x] Admin: adicionar/remover programas da grade, editar link da live
+- [x] Admin: conteúdos gravados estilo Hotmart (módulos, vídeos, textos)
+- [x] Comentários de usuários nos gravados (não na live)
